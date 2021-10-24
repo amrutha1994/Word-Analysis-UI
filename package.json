@@ -1,5 +1,5 @@
 {
-  "name": "scouting-application",
+  "name": "word-analysis-application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
