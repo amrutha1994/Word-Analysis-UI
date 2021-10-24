@@ -1,0 +1,43 @@
+.report-field {
+  background-color: antiquewhite;
+}
+.report-container {
+  justify-content: center;
+}
+.header-wrap {
+  background-color: #868282 !important;
+  color: black;
+}
+.report-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.go-btn {
+  background-color: #868282;
+  color: black;
+  font-family: "Roboto";
+  margin-left: 1em;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input{
+
+  font-family: fantasy !important;
+  font-size: xx-large  !important;
+  text-align: center !important;
+}
+.report{
+  margin-top: 1em !important;
+  padding: 1em !important;
+  justify-content: center !important;
+  align-items: center !important;
+  color: black !important;
+  font-family: fantasy !important;
+  background-color : antiquewhite !important;
+
+}
