@@ -21,4 +21,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
+### Demo
+
+![Word-Analytics](https://user-images.githubusercontent.com/30403669/138585862-098c5d37-30b4-4b1d-927a-733cb61cfd9e.gif)
 
